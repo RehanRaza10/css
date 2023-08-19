@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    color: blue;
+}
+.paragraph{
+    text-justify: auto;
+    text-align: justify;
+    color: black;
+
+}
+#word{
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    text-align: center;
+    background-color: aqua;
+    margin: auto;
+    padding: 5%;
+    
+}
